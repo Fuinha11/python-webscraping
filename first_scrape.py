@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+
 def do_thing():
     url = "https://alura-site-scraping.herokuapp.com/hello-world.php"
     response = urlopen(url) # Get on url
