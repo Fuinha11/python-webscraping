@@ -1,2 +1,247 @@
-﻿name;category;motor;description;location;valor;accessories
-LAMBORGHINI AVENTADOR;USADO;Motor 1.8 16v;Ano 1993 - 55.286 km;Belo Horizonte - MG;R$ 338.000;['4 X 4', 'Câmera de estacionamento', 'Controle de tração', 'Sensor de estacionamento']
+﻿name;category;motor;description;location;valor;accessories;opportunity
+LAMBORGHINI AVENTADOR;USADO;Motor 1.8 16v;Ano 1993 - 55.286 km;Belo Horizonte - MG;R$ 338.000;['4 X 4', 'Câmera de estacionamento', 'Controle de tração', 'Sensor de estacionamento'];
+BMW M2;USADO;Motor 3.0 32v;Ano 2018 - 83.447 km;Belo Horizonte - MG;R$ 346.000;['Câmera de estacionamento', 'Controle de estabilidade', 'Travas elétricas', 'Freios ABS'];
+ALFA;USADO;Motor 1.8 16v;Ano 2004 - 19.722 km;Rio de Janeiro - RJ;R$ 480.000;['Central multimídia', 'Bancos de couro', 'Rodas de liga', 'Câmera de estacionamento'];
+PUECH;USADO;Motor Diesel V8;Ano 1992 - 34.335 km;São Paulo - SP;R$ 133.000;['Bancos de couro', 'Freios ABS', 'Rodas de liga', 'Câmbio automático'];
+LAMBORGHINI MURCIELAGO;USADO;Motor 1.0 8v;Ano 1991 - 464 km;Belo Horizonte - MG;R$ 175.000;['Central multimídia', 'Teto panorâmico', 'Sensor crepuscular', 'Piloto automático'];
+ASTON MARTIN;USADO;Motor Diesel V6;Ano 2004 - 50.189 km;Belo Horizonte - MG;R$ 239.000;['Painel digital', 'Controle de tração', 'Teto panorâmico', 'Central multimídia'];OPORTUNIDADE
+TVR;USADO;Motor 4.0 Turbo;Ano 2014 - 17.778 km;Belo Horizonte - MG;R$ 115.000;['4 X 4', 'Teto panorâmico', 'Central multimídia', 'Controle de estabilidade'];
+EXCALIBUR;USADO;Motor 3.0 32v;Ano 2009 - 81.251 km;Rio de Janeiro - RJ;R$ 114.000;['Painel digital', 'Câmbio automático', 'Sensor de chuva', 'Travas elétricas'];
+MCLAREN;NOVO;Motor Diesel;Ano 2019 - 0 km;São Paulo - SP;R$ 75.000;['Central multimídia', 'Câmera de estacionamento', 'Câmbio automático', 'Ar condicionado'];
+TOYOTA;USADO;Motor 4.0 Turbo;Ano 1999 - 12.536 km;São Paulo - SP;R$ 117.000;['Bancos de couro', 'Freios ABS', 'Piloto automático', 'Controle de estabilidade'];OPORTUNIDADE
+VOLKSWAGEN BEETLE;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 177.000;['Teto panorâmico', 'Controle de tração', 'Sensor crepuscular', '4 X 4'];
+SPIRIT OF ECSTASY;USADO;Motor 3.0 32v;Ano 2011 - 107.484 km;Belo Horizonte - MG;R$ 322.000;['Ar condicionado', 'Travas elétricas', 'Rodas de liga', 'Bancos de couro'];
+PORSCHE 911 GT2RS;USADO;Motor 3.0 32v;Ano 1992 - 908 km;Rio de Janeiro - RJ;R$ 194.000;['Piloto automático', 'Painel digital', 'Ar condicionado', 'Vidros elétricos'];
+KOENIGSEGG;USADO;Motor 2.4 Turbo;Ano 2015 - 22.485 km;São Paulo - SP;R$ 469.000;['Sensor crepuscular', 'Painel digital', 'Teto panorâmico', 'Vidros elétricos'];
+LIMOUSINE;USADO;Motor Diesel V6;Ano 1996 - 23.007 km;Belo Horizonte - MG;R$ 424.000;['4 X 4', 'Câmera de estacionamento', 'Painel digital', 'Controle de tração'];OPORTUNIDADE
+FERRARI FF;USADO;Motor 4.0 Turbo;Ano 2002 - 106.389 km;Belo Horizonte - MG;R$ 291.000;['Rodas de liga', 'Bancos de couro', 'Freios ABS', 'Travas elétricas'];
+OFFENBURG;USADO;Motor 5.0 V8 Bi-Turbo;Ano 1990 - 78.181 km;Rio de Janeiro - RJ;R$ 96.000;['Freios ABS', 'Piloto automático', 'Controle de estabilidade', 'Vidros elétricos'];
+MUSTANG;USADO;Motor Diesel V8;Ano 1998 - 86.001 km;São Paulo - SP;R$ 271.000;['Sensor de estacionamento', 'Ar condicionado', 'Central multimídia', 'Travas elétricas'];
+LUXURY;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 387.000;['Rodas de liga', 'Controle de tração', 'Freios ABS', 'Sensor de estacionamento'];
+BMW M5;USADO;Motor 3.0 32v;Ano 2017 - 10.747 km;Rio de Janeiro - RJ;R$ 483.000;['Painel digital', 'Central multimídia', 'Vidros elétricos', 'Ar condicionado'];
+PORSCHE 911 GT3RS;USADO;Motor Diesel;Ano 1991 - 28.617 km;Belo Horizonte - MG;R$ 285.000;['Painel digital', 'Controle de estabilidade', '4 X 4', 'Sensor de chuva'];
+GOLD;NOVO;Motor V8;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 357.000;['Ar condicionado', 'Travas elétricas', 'Sensor de chuva', 'Bancos de couro'];
+CABRIOLET;NOVO;Motor Diesel V6;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 106.000;['Sensor de estacionamento', 'Teto panorâmico', 'Sensor crepuscular', 'Ar condicionado'];OPORTUNIDADE
+CHRYSLER 300;USADO;Motor 2.0 16v;Ano 2009 - 67.480 km;Rio de Janeiro - RJ;R$ 439.000;['Rodas de liga', 'Câmera de estacionamento', 'Sensor crepuscular', 'Travas elétricas'];
+CLASSIC;NOVO;Motor 4.0 Turbo;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 143.000;['Painel digital', 'Teto panorâmico', 'Travas elétricas', 'Sensor de estacionamento'];
+DODGE;USADO;Motor 2.0 16v;Ano 1999 - 85.451 km;Belo Horizonte - MG;R$ 155.000;['Freios ABS', '4 X 4', 'Sensor de chuva', 'Rodas de liga'];
+VINTAGE AUTOMOBILE;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 337.000;['Travas elétricas', 'Câmbio automático', 'Bancos de couro', 'Teto panorâmico'];
+CORVETTE;USADO;Motor 1.8 16v;Ano 1996 - 107.305 km;Belo Horizonte - MG;R$ 89.000;['Piloto automático', 'Controle de estabilidade', 'Freios ABS', 'Ar condicionado'];
+OPEL;USADO;Motor 4.0 Turbo;Ano 1997 - 119.942 km;Rio de Janeiro - RJ;R$ 193.000;['Central multimídia', 'Piloto automático', 'Sensor de estacionamento', 'Ar condicionado'];
+AUDI R8;USADO;Motor 1.8 16v;Ano 1993 - 86.338 km;Belo Horizonte - MG;R$ 356.000;['Painel digital', 'Travas elétricas', 'Vidros elétricos', '4 X 4'];
+ASTON MARTIN VULCAN;NOVO;Motor Diesel;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 141.000;['Câmbio automático', 'Sensor de chuva', 'Controle de tração', 'Teto panorâmico'];
+TRIUMPH MOTOR COMPANY;NOVO;Motor V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 176.000;['Central multimídia', 'Ar condicionado', 'Bancos de couro', 'Câmera de estacionamento'];OPORTUNIDADE
+VINTAGE CAR;USADO;Motor V8;Ano 2003 - 59.288 km;Rio de Janeiro - RJ;R$ 65.000;['Freios ABS', 'Piloto automático', 'Sensor de chuva', 'Vidros elétricos'];
+ACURA HEADLAMP;NOVO;Motor V6;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 449.000;['Câmera de estacionamento', 'Câmbio automático', 'Piloto automático', 'Central multimídia'];
+LUXURY CARS;USADO;Motor Diesel V8;Ano 2014 - 37.738 km;Rio de Janeiro - RJ;R$ 379.000;['Rodas de liga', 'Painel digital', 'Sensor de estacionamento', 'Teto panorâmico'];OPORTUNIDADE
+FERRARI 458 SPIDER;USADO;Motor V6;Ano 1993 - 24.316 km;Belo Horizonte - MG;R$ 262.000;['Central multimídia', 'Controle de estabilidade', 'Piloto automático', 'Sensor de chuva'];
+CLASSIC AUTOMOBILE;USADO;Motor 3.0 32v;Ano 2016 - 35.762 km;Rio de Janeiro - RJ;R$ 356.000;['Câmbio automático', 'Sensor de estacionamento', 'Bancos de couro', 'Câmera de estacionamento'];
+INFINITY;USADO;Motor 2.4 Turbo;Ano 1990 - 51.693 km;Rio de Janeiro - RJ;R$ 459.000;['Câmera de estacionamento', 'Piloto automático', 'Ar condicionado', 'Painel digital'];
+ASTON MARTIN VANQUISH;NOVO;Motor 4.0 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 183.000;['Painel digital', 'Piloto automático', 'Sensor de estacionamento', 'Sensor crepuscular'];OPORTUNIDADE
+MERCEDES BENZ 190 SL;USADO;Motor 3.0 32v;Ano 1994 - 111.906 km;Belo Horizonte - MG;R$ 61.000;['Câmbio automático', 'Freios ABS', 'Sensor crepuscular', 'Controle de estabilidade'];OPORTUNIDADE
+AUDI TT;USADO;Motor Diesel V6;Ano 2008 - 82.711 km;São Paulo - SP;R$ 225.000;['Sensor de chuva', 'Rodas de liga', 'Câmera de estacionamento', 'Travas elétricas'];
+DISTRICT;USADO;Motor Diesel V6;Ano 1995 - 36.215 km;São Paulo - SP;R$ 181.000;['Sensor de chuva', 'Rodas de liga', 'Piloto automático', '4 X 4'];
+VINTAGE;USADO;Motor 4.0 Turbo;Ano 2005 - 63.879 km;Rio de Janeiro - RJ;R$ 460.000;['4 X 4', 'Ar condicionado', 'Câmbio automático', 'Controle de estabilidade'];
+AUDI;NOVO;Motor Diesel V6;Ano 2019 - 0 km;São Paulo - SP;R$ 161.000;['Piloto automático', 'Bancos de couro', 'Painel digital', 'Controle de tração'];
+AUDI RS6;USADO;Motor Diesel V6;Ano 1999 - 26.215 km;Belo Horizonte - MG;R$ 188.000;['Travas elétricas', 'Central multimídia', 'Vidros elétricos', 'Ar condicionado'];OPORTUNIDADE
+FERRARI 458 SPECIALE;USADO;Motor Diesel V6;Ano 2018 - 1 km;São Paulo - SP;R$ 97.000;['Freios ABS', 'Controle de estabilidade', 'Painel digital', 'Ar condicionado'];
+TRUCK;USADO;Motor 4.0 Turbo;Ano 2001 - 68.038 km;Belo Horizonte - MG;R$ 415.000;['Rodas de liga', 'Sensor de estacionamento', 'Vidros elétricos', 'Câmbio automático'];
+CORVETTE STINGRAY;USADO;Motor 1.8 16v;Ano 1996 - 86.477 km;São Paulo - SP;R$ 172.000;['Câmbio automático', 'Controle de estabilidade', 'Sensor de estacionamento', 'Ar condicionado'];
+LAMBORGHINI;USADO;Motor 3.0 32v;Ano 2004 - 103.570 km;Rio de Janeiro - RJ;R$ 281.000;['Vidros elétricos', 'Câmbio automático', 'Piloto automático', 'Teto panorâmico'];
+CHRYSLER;NOVO;Motor 3.0 32v;Ano 2019 - 0 km;São Paulo - SP;R$ 396.000;['4 X 4', 'Ar condicionado', 'Câmera de estacionamento', 'Sensor de estacionamento'];
+RANGE ROVER;USADO;Motor V6;Ano 2014 - 85.686 km;São Paulo - SP;R$ 450.000;['Sensor de chuva', 'Ar condicionado', 'Painel digital', 'Teto panorâmico'];
+HAMMER;NOVO;Motor Diesel V8;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 470.000;['Bancos de couro', 'Travas elétricas', 'Sensor de estacionamento', 'Controle de tração'];
+FELICIA;USADO;Motor 2.0 16v;Ano 1990 - 68.513 km;Belo Horizonte - MG;R$ 64.000;['Central multimídia', 'Painel digital', 'Ar condicionado', '4 X 4'];
+MASERATI GRANTURISMO;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2011 - 71.783 km;São Paulo - SP;R$ 343.000;['Piloto automático', 'Bancos de couro', '4 X 4', 'Sensor crepuscular'];
+LAMBORGHINI AVENTADOR S;USADO;Motor Diesel V8;Ano 2017 - 115.844 km;São Paulo - SP;R$ 106.000;['Câmera de estacionamento', 'Sensor de estacionamento', 'Central multimídia', 'Teto panorâmico'];
+BENTLEY;USADO;Motor V6;Ano 1994 - 46.442 km;Belo Horizonte - MG;R$ 493.000;['Vidros elétricos', 'Piloto automático', 'Sensor crepuscular', '4 X 4'];
+ASTON;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 370.000;['Painel digital', 'Piloto automático', 'Freios ABS', 'Controle de estabilidade'];
+LAMBORGHINI GALLARDO;USADO;Motor 5.0 V8 Bi-Turbo;Ano 1993 - 77.846 km;São Paulo - SP;R$ 474.000;['4 X 4', 'Painel digital', 'Travas elétricas', 'Sensor crepuscular'];
+BMW 1M;USADO;Motor 1.0 8v;Ano 2014 - 28.833 km;Belo Horizonte - MG;R$ 420.000;['Sensor crepuscular', 'Sensor de chuva', 'Piloto automático', 'Câmera de estacionamento'];
+MERCEDES S CLASS;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 215.000;['Central multimídia', 'Câmera de estacionamento', 'Sensor de estacionamento', 'Painel digital'];
+VINTAGE AUTO;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2014 - 59.723 km;Belo Horizonte - MG;R$ 236.000;['Freios ABS', 'Piloto automático', 'Controle de estabilidade', 'Sensor crepuscular'];
+LEATHER STEERING WHEEL;USADO;Motor V6;Ano 2001 - 74.365 km;Rio de Janeiro - RJ;R$ 124.000;['Controle de tração', '4 X 4', 'Câmera de estacionamento', 'Controle de estabilidade'];OPORTUNIDADE
+DKW;USADO;Motor 2.0 16v;Ano 1994 - 112.727 km;São Paulo - SP;R$ 125.000;['Controle de tração', 'Travas elétricas', 'Controle de estabilidade', 'Sensor crepuscular'];
+FERRARI;USADO;Motor 1.8 16v;Ano 2011 - 111.255 km;Rio de Janeiro - RJ;R$ 151.000;['4 X 4', 'Controle de tração', 'Travas elétricas', 'Teto panorâmico'];
+BMW M3;USADO;Motor Diesel V8;Ano 2000 - 21.968 km;Rio de Janeiro - RJ;R$ 351.000;['Teto panorâmico', 'Sensor de chuva', 'Ar condicionado', 'Câmera de estacionamento'];
+TUNING;NOVO;Motor Diesel V6;Ano 2019 - 0 km;São Paulo - SP;R$ 223.000;['Câmbio automático', 'Ar condicionado', 'Bancos de couro', 'Controle de tração'];
+LINCOLN MKZ;NOVO;Motor Diesel V6;Ano 2019 - 0 km;São Paulo - SP;R$ 79.000;['Bancos de couro', 'Sensor de chuva', 'Sensor de estacionamento', 'Freios ABS'];
+MASERATI LEVANTE;NOVO;Motor V8;Ano 2019 - 0 km;São Paulo - SP;R$ 252.000;['Controle de tração', 'Sensor de estacionamento', 'Freios ABS', 'Painel digital'];
+ROLLSROYCE;USADO;Motor 4.0 Turbo;Ano 1991 - 5.947 km;Belo Horizonte - MG;R$ 357.000;['Central multimídia', 'Piloto automático', 'Controle de estabilidade', 'Câmbio automático'];
+MERCEDES BENZ;NOVO;Motor Diesel V6;Ano 2019 - 0 km;São Paulo - SP;R$ 396.000;['Vidros elétricos', 'Controle de tração', 'Painel digital', 'Rodas de liga'];
+MORGAN ROADSTER;USADO;Motor 2.0 16v;Ano 1999 - 102.662 km;São Paulo - SP;R$ 460.000;['Ar condicionado', 'Travas elétricas', 'Controle de tração', 'Freios ABS'];
+TOYOTA LAND CRUISER;USADO;Motor 2.0 16v;Ano 1990 - 46.571 km;São Paulo - SP;R$ 72.000;['Rodas de liga', '4 X 4', 'Travas elétricas', 'Câmera de estacionamento'];
+MERCEDES BENZ 300 SL;NOVO;Motor V8;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 422.000;['Painel digital', 'Vidros elétricos', 'Teto panorâmico', 'Sensor crepuscular'];
+CASABLANCA;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2003 - 9.912 km;Belo Horizonte - MG;R$ 399.000;['Ar condicionado', 'Freios ABS', 'Câmera de estacionamento', 'Vidros elétricos'];
+BUGATTI;USADO;Motor 1.0 8v;Ano 1993 - 81.154 km;Rio de Janeiro - RJ;R$ 455.000;['Freios ABS', 'Painel digital', 'Controle de estabilidade', 'Controle de tração'];
+PORSCHE CARRERA GT;NOVO;Motor 3.0 32v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 173.000;['Sensor de estacionamento', 'Vidros elétricos', 'Piloto automático', 'Painel digital'];
+BLACK AND WHITE;USADO;Motor 2.0 16v;Ano 2005 - 86.899 km;Belo Horizonte - MG;R$ 340.000;['Painel digital', 'Teto panorâmico', 'Sensor crepuscular', 'Rodas de liga'];
+BMW I8;USADO;Motor 3.0 32v;Ano 1994 - 112.579 km;Rio de Janeiro - RJ;R$ 443.000;['Freios ABS', 'Ar condicionado', '4 X 4', 'Teto panorâmico'];
+SUBARU;USADO;Motor Diesel;Ano 1995 - 48.416 km;São Paulo - SP;R$ 383.000;['Sensor de chuva', 'Freios ABS', '4 X 4', 'Teto panorâmico'];
+AMAZING;USADO;Motor 4.0 Turbo;Ano 2015 - 111.613 km;Rio de Janeiro - RJ;R$ 287.000;['Controle de estabilidade', 'Central multimídia', 'Câmera de estacionamento', 'Câmbio automático'];
+AUSTIN HEALEY;USADO;Motor Diesel;Ano 2003 - 15.810 km;Belo Horizonte - MG;R$ 350.000;['Sensor de estacionamento', 'Teto panorâmico', 'Controle de estabilidade', 'Câmbio automático'];OPORTUNIDADE
+FORD;USADO;Motor V8;Ano 1995 - 115.874 km;São Paulo - SP;R$ 276.000;['Travas elétricas', 'Câmbio automático', 'Central multimídia', '4 X 4'];
+ROLLS ROYCE WRAITH;USADO;Motor Diesel;Ano 2010 - 99.918 km;São Paulo - SP;R$ 163.000;['Freios ABS', 'Controle de estabilidade', 'Painel digital', 'Câmbio automático'];
+MERCEDES E63;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 107.000;['Sensor de chuva', 'Central multimídia', 'Ar condicionado', 'Controle de estabilidade'];OPORTUNIDADE
+MCLAREN MP4 12C;NOVO;Motor Diesel V6;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 173.000;['Sensor de estacionamento', 'Central multimídia', 'Sensor crepuscular', 'Piloto automático'];OPORTUNIDADE
+VWBEETLE;USADO;Motor Diesel V8;Ano 1992 - 108.055 km;Rio de Janeiro - RJ;R$ 150.000;['4 X 4', 'Teto panorâmico', 'Travas elétricas', 'Câmbio automático'];
+FERRARI 360;USADO;Motor 5.0 V8 Bi-Turbo;Ano 1991 - 106.251 km;Belo Horizonte - MG;R$ 305.000;['Vidros elétricos', 'Rodas de liga', 'Travas elétricas', 'Sensor de chuva'];
+CITROEN;USADO;Motor 1.8 16v;Ano 1995 - 13.433 km;São Paulo - SP;R$ 220.000;['Piloto automático', 'Central multimídia', 'Câmera de estacionamento', 'Travas elétricas'];
+FERRARI 458;USADO;Motor 3.0 32v;Ano 2000 - 75.458 km;Belo Horizonte - MG;R$ 176.000;['Controle de estabilidade', 'Câmbio automático', 'Painel digital', 'Bancos de couro'];
+OLDTIMERS;USADO;Motor Diesel;Ano 2015 - 41.735 km;Belo Horizonte - MG;R$ 201.000;['Vidros elétricos', 'Ar condicionado', 'Controle de estabilidade', 'Sensor crepuscular'];
+CAR PARTS WHITE;USADO;Motor 1.8 16v;Ano 2003 - 51.348 km;Rio de Janeiro - RJ;R$ 384.000;['Controle de estabilidade', 'Câmera de estacionamento', 'Câmbio automático', 'Ar condicionado'];
+GOODYEAR;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 111.000;['Freios ABS', 'Controle de tração', 'Teto panorâmico', 'Controle de estabilidade'];
+AFTERFX CUSTOM JEEP;USADO;Motor Diesel;Ano 2017 - 68.014 km;São Paulo - SP;R$ 146.000;['Controle de tração', 'Travas elétricas', '4 X 4', 'Vidros elétricos'];
+WHITE LUXURY CAR;USADO;Motor 2.4 Turbo;Ano 1993 - 52.282 km;Rio de Janeiro - RJ;R$ 319.000;['Controle de tração', 'Ar condicionado', 'Freios ABS', 'Câmbio automático'];
+LEXUS BREAK LIGHT;USADO;Motor 2.4 Turbo;Ano 2016 - 100.617 km;São Paulo - SP;R$ 86.000;['Rodas de liga', 'Freios ABS', 'Câmera de estacionamento', '4 X 4'];
+FERRARI CALIFORNIA;NOVO;Motor V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 188.000;['Câmera de estacionamento', 'Rodas de liga', 'Controle de estabilidade', 'Sensor de estacionamento'];
+MERC;NOVO;Motor V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 467.000;['Ar condicionado', '4 X 4', 'Painel digital', 'Piloto automático'];
+LEXUS IS F;USADO;Motor V8;Ano 2013 - 79.881 km;São Paulo - SP;R$ 69.000;['Teto panorâmico', '4 X 4', 'Travas elétricas', 'Sensor de chuva'];OPORTUNIDADE
+FORD MUSTANG;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 230.000;['Controle de tração', '4 X 4', 'Vidros elétricos', 'Ar condicionado'];OPORTUNIDADE
+PAGANI HUAYRA;NOVO;Motor Diesel V8;Ano 2019 - 0 km;São Paulo - SP;R$ 463.000;['Câmbio automático', 'Freios ABS', 'Sensor de chuva', 'Sensor crepuscular'];
+FIAT;USADO;Motor V6;Ano 2003 - 90.354 km;São Paulo - SP;R$ 440.000;['Sensor crepuscular', 'Piloto automático', 'Câmera de estacionamento', 'Painel digital'];
+HOUSTON;USADO;Motor V8;Ano 1995 - 48.876 km;Rio de Janeiro - RJ;R$ 58.000;['4 X 4', 'Rodas de liga', 'Teto panorâmico', 'Controle de tração'];
+LEXUS;USADO;Motor Diesel V6;Ano 2006 - 43.186 km;Belo Horizonte - MG;R$ 475.000;['Sensor crepuscular', 'Bancos de couro', 'Piloto automático', 'Freios ABS'];OPORTUNIDADE
+SPAIN;USADO;Motor 1.0 8v;Ano 2007 - 66.296 km;São Paulo - SP;R$ 133.000;['Central multimídia', 'Freios ABS', 'Sensor de chuva', 'Controle de estabilidade'];OPORTUNIDADE
+BORGWARD;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 322.000;['Vidros elétricos', 'Controle de estabilidade', 'Piloto automático', 'Sensor crepuscular'];
+SPOKES;USADO;Motor 4.0 Turbo;Ano 2016 - 72.469 km;Belo Horizonte - MG;R$ 138.000;['Câmbio automático', 'Freios ABS', 'Travas elétricas', 'Controle de tração'];
+MUSCLE CAR;USADO;Motor Diesel V8;Ano 1991 - 107.498 km;São Paulo - SP;R$ 413.000;['Sensor de chuva', 'Teto panorâmico', 'Freios ABS', 'Controle de estabilidade'];
+MCLAREN 650S;USADO;Motor 4.0 Turbo;Ano 1996 - 76.244 km;Rio de Janeiro - RJ;R$ 483.000;['Rodas de liga', 'Freios ABS', 'Controle de tração', 'Sensor de estacionamento'];
+SPYKER C8;USADO;Motor 2.4 Turbo;Ano 2001 - 22.527 km;São Paulo - SP;R$ 223.000;['Bancos de couro', 'Câmbio automático', 'Travas elétricas', 'Teto panorâmico'];
+BOXSTER;USADO;Motor Diesel V6;Ano 2005 - 66.836 km;São Paulo - SP;R$ 126.000;['4 X 4', 'Câmbio automático', 'Painel digital', 'Piloto automático'];
+ASTON MARTIN SHOOTING BRAKE ZAGATO;USADO;Motor Diesel V8;Ano 2007 - 22.225 km;Belo Horizonte - MG;R$ 354.000;['Teto panorâmico', 'Controle de estabilidade', 'Sensor de chuva', 'Sensor crepuscular'];
+PORSCHE 911;USADO;Motor V8;Ano 2007 - 97.778 km;Rio de Janeiro - RJ;R$ 132.000;['Central multimídia', '4 X 4', 'Bancos de couro', 'Controle de estabilidade'];
+ASTON MARTIN DB11;USADO;Motor 1.0 8v;Ano 1995 - 95.124 km;São Paulo - SP;R$ 201.000;['Central multimídia', 'Bancos de couro', 'Sensor crepuscular', 'Sensor de estacionamento'];
+KAHULUI;NOVO;Motor V8;Ano 2019 - 0 km;São Paulo - SP;R$ 58.000;['Rodas de liga', 'Teto panorâmico', 'Sensor de chuva', 'Painel digital'];
+DAIMLER;USADO;Motor Diesel;Ano 1997 - 76.354 km;Belo Horizonte - MG;R$ 159.000;['Piloto automático', 'Câmera de estacionamento', 'Câmbio automático', 'Sensor crepuscular'];
+RED CAR;USADO;Motor 1.0 8v;Ano 1993 - 11.015 km;Rio de Janeiro - RJ;R$ 167.000;['Sensor de estacionamento', 'Bancos de couro', 'Sensor de chuva', 'Teto panorâmico'];
+PORSCHE;USADO;Motor 3.0 32v;Ano 1990 - 9.856 km;Belo Horizonte - MG;R$ 249.000;['Controle de estabilidade', 'Teto panorâmico', 'Freios ABS', '4 X 4'];
+ASPHALT;NOVO;Motor 2.0 16v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 402.000;['Rodas de liga', 'Freios ABS', 'Controle de tração', 'Bancos de couro'];
+ASTON MARTIN VANTAGE;USADO;Motor 1.8 16v;Ano 2018 - 76.558 km;Rio de Janeiro - RJ;R$ 393.000;['Painel digital', 'Freios ABS', 'Controle de estabilidade', 'Sensor de chuva'];OPORTUNIDADE
+PORSCHE TURBO;USADO;Motor 1.0 8v;Ano 1993 - 23.418 km;Rio de Janeiro - RJ;R$ 332.000;['Travas elétricas', 'Sensor de chuva', 'Piloto automático', '4 X 4'];
+REO;NOVO;Motor 1.8 16v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 472.000;['Sensor de estacionamento', 'Painel digital', 'Bancos de couro', 'Sensor de chuva'];
+COBRA;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 442.000;['Teto panorâmico', 'Sensor de chuva', 'Câmbio automático', 'Piloto automático'];
+SUV;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 108.000;['Freios ABS', 'Bancos de couro', 'Sensor de estacionamento', 'Controle de tração'];
+JEEP;USADO;Motor 2.4 Turbo;Ano 1990 - 68.534 km;Rio de Janeiro - RJ;R$ 471.000;['Controle de estabilidade', '4 X 4', 'Central multimídia', 'Controle de tração'];
+CLASSIC CAR;NOVO;Motor Diesel V8;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 210.000;['Câmbio automático', '4 X 4', 'Sensor de estacionamento', 'Ar condicionado'];
+TEA;USADO;Motor 2.4 Turbo;Ano 2014 - 115.936 km;Belo Horizonte - MG;R$ 332.000;['Câmera de estacionamento', 'Vidros elétricos', 'Painel digital', 'Central multimídia'];
+TRAFFIC;NOVO;Motor 3.0 32v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 113.000;['Controle de tração', 'Vidros elétricos', 'Bancos de couro', 'Painel digital'];
+MERCEDES BENZ 600SE LUXURY SEDAN;USADO;Motor 2.0 16v;Ano 1997 - 80.168 km;Belo Horizonte - MG;R$ 172.000;['Sensor de estacionamento', 'Freios ABS', 'Teto panorâmico', 'Sensor de chuva'];
+PKW;NOVO;Motor Diesel;Ano 2019 - 0 km;São Paulo - SP;R$ 180.000;['Travas elétricas', 'Teto panorâmico', 'Rodas de liga', 'Ar condicionado'];
+MERCEDES SLK55;NOVO;Motor Diesel V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 498.000;['Rodas de liga', 'Câmera de estacionamento', '4 X 4', 'Piloto automático'];
+LUXURY CAR;USADO;Motor Diesel;Ano 2015 - 72.680 km;Rio de Janeiro - RJ;R$ 142.000;['4 X 4', 'Sensor de estacionamento', 'Vidros elétricos', 'Teto panorâmico'];
+MERCEDES SL300;USADO;Motor 2.4 Turbo;Ano 1994 - 16.192 km;São Paulo - SP;R$ 121.000;['Freios ABS', 'Câmbio automático', 'Sensor de chuva', 'Câmera de estacionamento'];OPORTUNIDADE
+REDJAWA;USADO;Motor 2.0 16v;Ano 1992 - 85.309 km;São Paulo - SP;R$ 432.000;['Piloto automático', 'Controle de tração', 'Central multimídia', 'Ar condicionado'];
+MINI;USADO;Motor V8;Ano 2000 - 86.019 km;Belo Horizonte - MG;R$ 297.000;['Rodas de liga', 'Câmera de estacionamento', 'Central multimídia', 'Controle de estabilidade'];
+HUMMER;USADO;Motor 1.0 8v;Ano 2010 - 64.634 km;Belo Horizonte - MG;R$ 160.000;['Ar condicionado', 'Sensor de chuva', 'Sensor de estacionamento', 'Câmbio automático'];
+FIRE;NOVO;Motor Diesel V6;Ano 2019 - 0 km;São Paulo - SP;R$ 191.000;['Travas elétricas', 'Vidros elétricos', 'Rodas de liga', 'Sensor crepuscular'];OPORTUNIDADE
+FERRARI 348;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2013 - 44.072 km;Belo Horizonte - MG;R$ 321.000;['Teto panorâmico', 'Sensor de estacionamento', '4 X 4', 'Rodas de liga'];
+FERRARI ENZO;USADO;Motor V8;Ano 1994 - 111.311 km;Rio de Janeiro - RJ;R$ 342.000;['Sensor crepuscular', 'Câmbio automático', 'Sensor de estacionamento', 'Freios ABS'];OPORTUNIDADE
+ALLOY;USADO;Motor 1.8 16v;Ano 1995 - 58.944 km;São Paulo - SP;R$ 131.000;['Rodas de liga', 'Painel digital', 'Central multimídia', 'Freios ABS'];
+SPORT CAR;NOVO;Motor V8;Ano 2019 - 0 km;São Paulo - SP;R$ 102.000;['Ar condicionado', 'Central multimídia', 'Sensor de chuva', 'Teto panorâmico'];
+CUBA;USADO;Motor Diesel;Ano 1992 - 62.255 km;Rio de Janeiro - RJ;R$ 422.000;['Vidros elétricos', 'Controle de tração', 'Piloto automático', 'Teto panorâmico'];
+FERRARI F12;USADO;Motor Diesel V6;Ano 2008 - 65.143 km;São Paulo - SP;R$ 482.000;['Freios ABS', 'Rodas de liga', 'Travas elétricas', 'Sensor de chuva'];
+ACURA REAR;USADO;Motor 2.0 16v;Ano 2007 - 33.343 km;Belo Horizonte - MG;R$ 229.000;['Teto panorâmico', 'Painel digital', 'Travas elétricas', 'Controle de estabilidade'];
+MERCEDES BENZ SLR;USADO;Motor Diesel V8;Ano 1998 - 66.074 km;São Paulo - SP;R$ 61.000;['Controle de tração', 'Câmera de estacionamento', 'Central multimídia', 'Travas elétricas'];
+CADILLAC;USADO;Motor V8;Ano 2001 - 90.123 km;Belo Horizonte - MG;R$ 491.000;['Central multimídia', '4 X 4', 'Piloto automático', 'Vidros elétricos'];
+FORD GT40;USADO;Motor 2.4 Turbo;Ano 2009 - 118.844 km;São Paulo - SP;R$ 340.000;['Central multimídia', 'Teto panorâmico', 'Painel digital', 'Bancos de couro'];
+HOTROD TRUCK;USADO;Motor V6;Ano 2018 - 73.321 km;São Paulo - SP;R$ 384.000;['Ar condicionado', 'Rodas de liga', 'Painel digital', 'Controle de estabilidade'];
+CLASSIC CARS;USADO;Motor 1.0 8v;Ano 2006 - 7.306 km;Belo Horizonte - MG;R$ 81.000;['Travas elétricas', 'Central multimídia', '4 X 4', 'Rodas de liga'];
+BMW GLAS V8 COUPE;USADO;Motor Diesel;Ano 1991 - 85.498 km;Belo Horizonte - MG;R$ 429.000;['Travas elétricas', 'Ar condicionado', 'Piloto automático', 'Central multimídia'];
+PEUGEOT;USADO;Motor 2.0 16v;Ano 2017 - 17.022 km;Belo Horizonte - MG;R$ 384.000;['Rodas de liga', 'Teto panorâmico', 'Câmera de estacionamento', 'Painel digital'];
+JAGUAR CAR;NOVO;Motor 3.0 32v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 318.000;['Piloto automático', '4 X 4', 'Freios ABS', 'Travas elétricas'];
+COBRA SPORTS CAR;USADO;Motor 2.4 Turbo;Ano 2008 - 112.215 km;Belo Horizonte - MG;R$ 326.000;['Travas elétricas', 'Painel digital', 'Teto panorâmico', 'Central multimídia'];
+STRETCH LIMOUSINE;USADO;Motor Diesel;Ano 2009 - 53.225 km;Rio de Janeiro - RJ;R$ 447.000;['Controle de estabilidade', 'Teto panorâmico', 'Bancos de couro', 'Ar condicionado'];
+FERRARI CAR;USADO;Motor Diesel;Ano 2002 - 86.124 km;São Paulo - SP;R$ 87.000;['Teto panorâmico', 'Câmbio automático', 'Central multimídia', 'Travas elétricas'];
+MERCURYDL;USADO;Motor Diesel V8;Ano 1997 - 108.631 km;Belo Horizonte - MG;R$ 182.000;['Sensor de estacionamento', 'Freios ABS', 'Controle de tração', 'Câmera de estacionamento'];
+MASERATI;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 212.000;['Câmbio automático', 'Sensor crepuscular', 'Central multimídia', 'Vidros elétricos'];
+MERCEDES C63 ENGINE;USADO;Motor V6;Ano 1995 - 89.724 km;São Paulo - SP;R$ 253.000;['Vidros elétricos', 'Câmera de estacionamento', 'Sensor de chuva', 'Teto panorâmico'];OPORTUNIDADE
+COUPE;USADO;Motor 3.0 32v;Ano 2001 - 116.767 km;São Paulo - SP;R$ 246.000;['Sensor de chuva', 'Câmera de estacionamento', 'Teto panorâmico', 'Vidros elétricos'];
+GT;USADO;Motor 4.0 Turbo;Ano 2016 - 38.803 km;São Paulo - SP;R$ 364.000;['Vidros elétricos', 'Sensor crepuscular', 'Freios ABS', 'Ar condicionado'];
+RENAULT;USADO;Motor 5.0 V8 Bi-Turbo;Ano 1991 - 101.983 km;São Paulo - SP;R$ 434.000;['Câmbio automático', 'Sensor crepuscular', 'Rodas de liga', 'Sensor de chuva'];
+FIAT 130;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2010 - 11.257 km;Rio de Janeiro - RJ;R$ 493.000;['Sensor crepuscular', 'Travas elétricas', 'Central multimídia', '4 X 4'];OPORTUNIDADE
+VINTAGE CARS;USADO;Motor 1.8 16v;Ano 2004 - 47.972 km;São Paulo - SP;R$ 303.000;['Câmera de estacionamento', 'Ar condicionado', 'Freios ABS', 'Piloto automático'];
+NISSAN GTR;USADO;Motor Diesel;Ano 1995 - 61.740 km;Rio de Janeiro - RJ;R$ 363.000;['Freios ABS', 'Sensor de estacionamento', 'Sensor de chuva', 'Piloto automático'];
+MERCEDES SLS;USADO;Motor 3.0 32v;Ano 2004 - 41.278 km;Rio de Janeiro - RJ;R$ 180.000;['Freios ABS', 'Sensor de estacionamento', 'Controle de tração', 'Sensor de chuva'];
+LUXURY AUTOMOBILE;NOVO;Motor V8;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 175.000;['Teto panorâmico', 'Central multimídia', 'Ar condicionado', 'Sensor de estacionamento'];
+KIA CAR;USADO;Motor 4.0 Turbo;Ano 2017 - 95.496 km;Rio de Janeiro - RJ;R$ 455.000;['Controle de tração', 'Painel digital', 'Teto panorâmico', 'Freios ABS'];OPORTUNIDADE
+TANGERINE LAMBORGHINI;USADO;Motor V8;Ano 2003 - 100.107 km;São Paulo - SP;R$ 296.000;['Câmera de estacionamento', 'Freios ABS', 'Painel digital', 'Câmbio automático'];
+CLASSIC TAILLIGHT;USADO;Motor 4.0 Turbo;Ano 2015 - 39.240 km;Belo Horizonte - MG;R$ 363.000;['Vidros elétricos', 'Painel digital', 'Freios ABS', 'Sensor crepuscular'];
+WIESMANN GT MF4;USADO;Motor 2.0 16v;Ano 1994 - 82.228 km;Rio de Janeiro - RJ;R$ 217.000;['Câmera de estacionamento', 'Freios ABS', 'Controle de estabilidade', 'Painel digital'];
+GMC YUKON;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2017 - 24.757 km;São Paulo - SP;R$ 51.000;['Sensor de estacionamento', 'Rodas de liga', 'Câmera de estacionamento', 'Central multimídia'];
+PORSCHE 918 SPYDER;USADO;Motor Diesel V6;Ano 2015 - 70.486 km;São Paulo - SP;R$ 109.000;['Travas elétricas', 'Painel digital', 'Rodas de liga', 'Câmera de estacionamento'];
+T1;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;São Paulo - SP;R$ 189.000;['Sensor de estacionamento', 'Painel digital', 'Controle de tração', 'Rodas de liga'];
+MERCEDES BENZ 280S;USADO;Motor 2.4 Turbo;Ano 2000 - 108.914 km;São Paulo - SP;R$ 110.000;['Ar condicionado', 'Câmera de estacionamento', 'Painel digital', 'Travas elétricas'];
+LINCOLN;USADO;Motor 1.8 16v;Ano 2004 - 90.412 km;Rio de Janeiro - RJ;R$ 321.000;['Controle de tração', 'Sensor de estacionamento', 'Ar condicionado', 'Painel digital'];
+BLACK SUV;NOVO;Motor Diesel V8;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 275.000;['Câmbio automático', 'Travas elétricas', 'Vidros elétricos', '4 X 4'];OPORTUNIDADE
+DESOTO;USADO;Motor Diesel;Ano 2015 - 4.561 km;São Paulo - SP;R$ 261.000;['4 X 4', 'Controle de tração', 'Controle de estabilidade', 'Câmbio automático'];
+CHEVROLET;USADO;Motor 2.4 Turbo;Ano 1992 - 108.884 km;Rio de Janeiro - RJ;R$ 173.000;['Central multimídia', '4 X 4', 'Painel digital', 'Sensor de estacionamento'];
+VOLVO;NOVO;Motor V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 303.000;['Central multimídia', 'Piloto automático', 'Rodas de liga', 'Controle de estabilidade'];OPORTUNIDADE
+KOENIGSEGG CCR;USADO;Motor V8;Ano 1993 - 47.501 km;Rio de Janeiro - RJ;R$ 264.000;['Sensor de estacionamento', 'Ar condicionado', 'Teto panorâmico', 'Sensor crepuscular'];
+LAMBORGHINI MURCIELAGO SV;USADO;Motor Diesel V6;Ano 2005 - 96.423 km;São Paulo - SP;R$ 323.000;['Câmbio automático', 'Freios ABS', 'Bancos de couro', 'Painel digital'];
+OPEL DIPLOMAT;USADO;Motor Diesel V8;Ano 1992 - 50.436 km;Rio de Janeiro - RJ;R$ 244.000;['Controle de tração', 'Vidros elétricos', 'Rodas de liga', 'Sensor de estacionamento'];
+ROLLS ROYCE;NOVO;Motor Diesel V6;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 350.000;['Controle de estabilidade', 'Controle de tração', 'Sensor de chuva', 'Vidros elétricos'];
+FERRARI F430 SPIDER;USADO;Motor V8;Ano 1993 - 9.245 km;São Paulo - SP;R$ 316.000;['Painel digital', 'Bancos de couro', 'Freios ABS', 'Controle de tração'];
+SHEAVY;USADO;Motor V6;Ano 1997 - 16.528 km;Belo Horizonte - MG;R$ 352.000;['Teto panorâmico', '4 X 4', 'Painel digital', 'Sensor de chuva'];OPORTUNIDADE
+AUTO DETAIL;USADO;Motor 4.0 Turbo;Ano 2011 - 119.240 km;São Paulo - SP;R$ 291.000;['4 X 4', 'Controle de estabilidade', 'Câmera de estacionamento', 'Travas elétricas'];
+ALFA ROMEO;NOVO;Motor 2.0 16v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 98.000;['Câmbio automático', 'Bancos de couro', 'Controle de tração', 'Painel digital'];OPORTUNIDADE
+LAMBORGHINI HURACAN;USADO;Motor Diesel V8;Ano 1991 - 80.719 km;São Paulo - SP;R$ 218.000;['Sensor crepuscular', 'Câmbio automático', 'Controle de tração', 'Central multimídia'];
+MORGAN PLUS 8;USADO;Motor Diesel;Ano 2010 - 113.873 km;São Paulo - SP;R$ 218.000;['Central multimídia', 'Painel digital', 'Controle de estabilidade', 'Travas elétricas'];
+BMW M4;USADO;Motor Diesel V6;Ano 1995 - 91.022 km;Belo Horizonte - MG;R$ 387.000;['Sensor de estacionamento', 'Vidros elétricos', 'Controle de estabilidade', 'Ar condicionado'];
+COLD;USADO;Motor 1.0 8v;Ano 2002 - 50.166 km;Belo Horizonte - MG;R$ 105.000;['Câmbio automático', 'Vidros elétricos', 'Câmera de estacionamento', 'Controle de tração'];OPORTUNIDADE
+C63;USADO;Motor 2.0 16v;Ano 1994 - 59.885 km;Belo Horizonte - MG;R$ 170.000;['Sensor de chuva', 'Controle de tração', 'Sensor de estacionamento', 'Câmbio automático'];
+CUSTOM RIMS;USADO;Motor 4.0 Turbo;Ano 1994 - 15.292 km;Belo Horizonte - MG;R$ 490.000;['Controle de tração', '4 X 4', 'Vidros elétricos', 'Sensor de chuva'];
+MERCEDES BENZ S CLASS;USADO;Motor 2.0 16v;Ano 2003 - 23.426 km;Rio de Janeiro - RJ;R$ 152.000;['Controle de tração', 'Sensor crepuscular', 'Piloto automático', 'Sensor de estacionamento'];
+ADAM OPEL AG;NOVO;Motor 1.0 8v;Ano 2019 - 0 km;São Paulo - SP;R$ 480.000;['Sensor crepuscular', 'Sensor de estacionamento', 'Travas elétricas', 'Sensor de chuva'];
+SPOTLIGHT;USADO;Motor 4.0 Turbo;Ano 2000 - 81.779 km;Rio de Janeiro - RJ;R$ 381.000;['Rodas de liga', 'Controle de tração', 'Bancos de couro', 'Vidros elétricos'];
+LOTUS;USADO;Motor Diesel V6;Ano 1995 - 45.004 km;São Paulo - SP;R$ 468.000;['Travas elétricas', 'Freios ABS', 'Bancos de couro', 'Câmbio automático'];OPORTUNIDADE
+SPORTS CAR;NOVO;Motor 1.8 16v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 54.000;['Travas elétricas', 'Rodas de liga', 'Bancos de couro', 'Central multimídia'];
+RESTORED;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2002 - 84.771 km;São Paulo - SP;R$ 304.000;['Teto panorâmico', 'Câmbio automático', 'Controle de estabilidade', 'Vidros elétricos'];
+FERRARI F430;USADO;Motor 1.0 8v;Ano 2005 - 57.973 km;Rio de Janeiro - RJ;R$ 372.000;['Sensor de chuva', 'Rodas de liga', 'Controle de tração', 'Ar condicionado'];
+CLASSIC MERCEDES;USADO;Motor 1.0 8v;Ano 2014 - 86.577 km;Belo Horizonte - MG;R$ 357.000;['Vidros elétricos', 'Bancos de couro', 'Controle de estabilidade', 'Freios ABS'];
+MERCEDES;USADO;Motor V6;Ano 2002 - 25.150 km;Rio de Janeiro - RJ;R$ 333.000;['Central multimídia', 'Ar condicionado', 'Vidros elétricos', 'Painel digital'];
+SPEEDO;USADO;Motor 1.0 8v;Ano 2010 - 44.165 km;Belo Horizonte - MG;R$ 153.000;['Vidros elétricos', 'Sensor de chuva', 'Sensor crepuscular', 'Ar condicionado'];
+PORSCHE TARGA;USADO;Motor 1.8 16v;Ano 2005 - 102.500 km;Belo Horizonte - MG;R$ 318.000;['Teto panorâmico', 'Câmbio automático', 'Sensor crepuscular', 'Controle de estabilidade'];
+FERRARI 308 GT4;USADO;Motor 4.0 Turbo;Ano 1999 - 90.403 km;Belo Horizonte - MG;R$ 125.000;['Bancos de couro', 'Ar condicionado', 'Travas elétricas', 'Controle de tração'];
+MERCEDES BENZ 600;USADO;Motor Diesel;Ano 2015 - 69.171 km;Rio de Janeiro - RJ;R$ 373.000;['Piloto automático', 'Central multimídia', 'Painel digital', 'Rodas de liga'];
+PACKARD SUPER 8;USADO;Motor Diesel V6;Ano 2004 - 4.476 km;Belo Horizonte - MG;R$ 81.000;['Rodas de liga', 'Teto panorâmico', 'Câmbio automático', 'Bancos de couro'];
+BENTLEY MULSANNE;USADO;Motor Diesel V6;Ano 2004 - 61.712 km;Belo Horizonte - MG;R$ 464.000;['4 X 4', 'Central multimídia', 'Travas elétricas', 'Painel digital'];OPORTUNIDADE
+JAGUAR XK;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 201.000;['4 X 4', 'Teto panorâmico', 'Sensor de chuva', 'Controle de tração'];
+PLYMOUTH;USADO;Motor V6;Ano 1999 - 2.388 km;São Paulo - SP;R$ 222.000;['4 X 4', 'Controle de estabilidade', 'Freios ABS', 'Sensor de estacionamento'];OPORTUNIDADE
+PORSCHE 911 GT3;USADO;Motor Diesel V6;Ano 2009 - 86.538 km;Rio de Janeiro - RJ;R$ 376.000;['4 X 4', 'Sensor de chuva', 'Rodas de liga', 'Central multimídia'];
+MERCES;USADO;Motor V8;Ano 2014 - 11.328 km;São Paulo - SP;R$ 112.000;['Travas elétricas', 'Freios ABS', 'Controle de tração', 'Controle de estabilidade'];
+THIRTIES;USADO;Motor Diesel;Ano 2006 - 93.564 km;Rio de Janeiro - RJ;R$ 338.000;['Sensor de estacionamento', 'Câmbio automático', 'Piloto automático', 'Ar condicionado'];
+PORSCHE 911 TURBO;USADO;Motor 1.8 16v;Ano 1996 - 106.598 km;São Paulo - SP;R$ 338.000;['Controle de tração', 'Sensor crepuscular', 'Vidros elétricos', 'Painel digital'];
+SKODA;USADO;Motor V8;Ano 1994 - 77.208 km;Belo Horizonte - MG;R$ 198.000;['Controle de estabilidade', 'Rodas de liga', 'Ar condicionado', 'Câmbio automático'];
+VOLKSWAGEN;USADO;Motor Diesel V8;Ano 2017 - 64.852 km;Belo Horizonte - MG;R$ 155.000;['Câmera de estacionamento', 'Central multimídia', 'Travas elétricas', 'Câmbio automático'];OPORTUNIDADE
+GMC YUKON TRUCK WHEEL;USADO;Motor 1.0 8v;Ano 2001 - 70.878 km;Rio de Janeiro - RJ;R$ 273.000;['Sensor de estacionamento', 'Ar condicionado', 'Vidros elétricos', 'Câmbio automático'];
+PANTERA;NOVO;Motor Diesel;Ano 2019 - 0 km;São Paulo - SP;R$ 63.000;['Freios ABS', 'Controle de estabilidade', 'Travas elétricas', 'Câmera de estacionamento'];
+HONDA;USADO;Motor Diesel V8;Ano 2009 - 64.735 km;São Paulo - SP;R$ 448.000;['Câmbio automático', 'Vidros elétricos', 'Sensor de estacionamento', '4 X 4'];
+MERCEDES AMG GTS;USADO;Motor Diesel V6;Ano 2009 - 59.305 km;Belo Horizonte - MG;R$ 376.000;['Freios ABS', 'Sensor de estacionamento', 'Rodas de liga', 'Câmera de estacionamento'];
+LIMO;USADO;Motor V6;Ano 1990 - 92.448 km;Belo Horizonte - MG;R$ 353.000;['Controle de estabilidade', 'Câmbio automático', 'Ar condicionado', 'Central multimídia'];
+BMW;USADO;Motor Diesel V6;Ano 2015 - 21.275 km;Belo Horizonte - MG;R$ 90.000;['Controle de tração', 'Travas elétricas', 'Rodas de liga', 'Central multimídia'];
+FERRARI 288 GTO;USADO;Motor V6;Ano 1994 - 86.170 km;Rio de Janeiro - RJ;R$ 468.000;['Piloto automático', 'Sensor de estacionamento', 'Sensor crepuscular', 'Rodas de liga'];
+AUDI RS7;USADO;Motor 3.0 32v;Ano 2014 - 117.197 km;São Paulo - SP;R$ 415.000;['Piloto automático', 'Controle de estabilidade', 'Sensor de estacionamento', 'Sensor de chuva'];
+SEAT LEON;USADO;Motor 2.0 16v;Ano 1995 - 30.961 km;Belo Horizonte - MG;R$ 331.000;['Sensor de chuva', 'Câmbio automático', 'Freios ABS', '4 X 4'];OPORTUNIDADE
+MERCEDES BENZ SLS;USADO;Motor Diesel V8;Ano 1991 - 97.949 km;Rio de Janeiro - RJ;R$ 237.000;['Freios ABS', 'Rodas de liga', 'Câmbio automático', 'Painel digital'];OPORTUNIDADE
+LAGONDA;USADO;Motor 2.0 16v;Ano 2016 - 18.870 km;Rio de Janeiro - RJ;R$ 88.000;['Câmera de estacionamento', 'Rodas de liga', 'Painel digital', 'Sensor de estacionamento'];
+ANTIQUE CAR;USADO;Motor Diesel;Ano 2014 - 114.136 km;Belo Horizonte - MG;R$ 312.000;['Central multimídia', 'Sensor de estacionamento', 'Controle de tração', 'Câmbio automático'];
+AUDI A5;NOVO;Motor V6;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 240.000;['Câmera de estacionamento', 'Sensor de chuva', 'Vidros elétricos', 'Sensor de estacionamento'];
+COUGAR XR;NOVO;Motor 1.8 16v;Ano 2019 - 0 km;São Paulo - SP;R$ 215.000;['Sensor crepuscular', 'Controle de estabilidade', 'Rodas de liga', 'Teto panorâmico'];OPORTUNIDADE
+JAGUAR;USADO;Motor V6;Ano 1991 - 117.377 km;Belo Horizonte - MG;R$ 492.000;['Teto panorâmico', 'Ar condicionado', 'Vidros elétricos', 'Bancos de couro'];
+WHITE LAMBORGHINI;NOVO;Motor Diesel;Ano 2019 - 0 km;São Paulo - SP;R$ 172.000;['Controle de tração', 'Câmbio automático', 'Câmera de estacionamento', 'Sensor de estacionamento'];OPORTUNIDADE
+CORVETTE YELLOW;NOVO;Motor 5.0 V8 Bi-Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 496.000;['Bancos de couro', 'Rodas de liga', 'Sensor de chuva', 'Central multimídia'];
+HOUSTON FIRE DEPARTMENT;USADO;Motor 5.0 V8 Bi-Turbo;Ano 2010 - 112.389 km;Rio de Janeiro - RJ;R$ 334.000;['Ar condicionado', 'Travas elétricas', 'Controle de tração', '4 X 4'];
+ASTON MARTIN DBS;USADO;Motor V8;Ano 2010 - 15.193 km;Belo Horizonte - MG;R$ 331.000;['Ar condicionado', 'Vidros elétricos', 'Câmbio automático', 'Sensor de estacionamento'];
+AMG;NOVO;Motor 4.0 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 381.000;['Freios ABS', 'Piloto automático', 'Sensor crepuscular', 'Vidros elétricos'];
+LAMBORGHINI DIABLO;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 362.000;['Ar condicionado', 'Sensor de estacionamento', 'Controle de estabilidade', 'Painel digital'];
+TRIPPELWAGEN;NOVO;Motor 2.0 16v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 281.000;['Sensor de chuva', 'Ar condicionado', 'Teto panorâmico', 'Sensor de estacionamento'];
+BENTZ;NOVO;Motor 2.4 Turbo;Ano 2019 - 0 km;São Paulo - SP;R$ 308.000;['Freios ABS', 'Ar condicionado', 'Travas elétricas', 'Câmbio automático'];
+LUXURY SPORTS CAR;NOVO;Motor 3.0 32v;Ano 2019 - 0 km;Rio de Janeiro - RJ;R$ 268.000;['Piloto automático', 'Controle de estabilidade', 'Câmera de estacionamento', '4 X 4'];
+CONVERTIBLE;USADO;Motor V8;Ano 2008 - 42.427 km;Rio de Janeiro - RJ;R$ 192.000;['Rodas de liga', 'Freios ABS', 'Câmera de estacionamento', 'Travas elétricas'];OPORTUNIDADE
+ROLLAND PILAIN;USADO;Motor 1.8 16v;Ano 2006 - 15.128 km;São Paulo - SP;R$ 432.000;['Painel digital', 'Câmbio automático', 'Sensor crepuscular', 'Rodas de liga'];
+SUV REAR TIRE;USADO;Motor 3.0 32v;Ano 1998 - 74.292 km;São Paulo - SP;R$ 489.000;['Câmera de estacionamento', 'Rodas de liga', 'Sensor de estacionamento', 'Vidros elétricos'];
+ANTIQUE;NOVO;Motor 2.0 16v;Ano 2019 - 0 km;Belo Horizonte - MG;R$ 427.000;['Bancos de couro', 'Freios ABS', 'Sensor de estacionamento', 'Teto panorâmico'];
+SPORT;USADO;Motor 2.0 16v;Ano 2001 - 102.776 km;Belo Horizonte - MG;R$ 203.000;['Sensor crepuscular', 'Sensor de chuva', 'Vidros elétricos', 'Travas elétricas'];
+IMPERIAL;USADO;Motor 1.8 16v;Ano 2011 - 101.787 km;Belo Horizonte - MG;R$ 474.000;['Painel digital', 'Travas elétricas', 'Sensor de chuva', 'Ar condicionado'];OPORTUNIDADE
+KIA SPORTS CAR;USADO;Motor 3.0 32v;Ano 2001 - 88.564 km;Belo Horizonte - MG;R$ 366.000;['Sensor crepuscular', 'Bancos de couro', 'Sensor de estacionamento', 'Travas elétricas'];
